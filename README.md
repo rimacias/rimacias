@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ramón Ignacio Macías 👋
 
-<!--
-**rimacias/rimacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building robust developer tooling, native applications, and resilient distributed systems. Passionate about clean architecture, **SOLID principles**, and **Domain-Driven Design**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+- 🧠 **[clean-code-auditor-skill](https://github.com/rimacias/clean-code-auditor-skill)**  
+  *AI Agent skill & MCP server for SOLID compliance, code smells detection, automated refactoring, and duplicate analysis. Bundles 140 offline Refactoring Guru guides with token-efficient codegraph integration.*
+
+- ⚡ **[open-whats-native](https://github.com/rimacias/open-whats-native)**  
+  *Blazingly fast, lightweight native desktop WhatsApp client built in Go and Fyne. Features hardware-accelerated rendering, instant offline SQLite caching, and strict DDD architecture.*
+
+- 🔧 **[git-diffrange](https://github.com/rimacias/git-diffrange)**  
+  *A powerful Git CLI utility for commit-range analysis, interactive `fzf` code review, automated per-day patch generation, and formatted daily standup reports.*
+
+---
+
+### 🛠️ Tech Stack & Engineering Focus
+
+- **Languages:** Go, TypeScript, JavaScript, Rust, Python, Bash, SQL
+- **Architecture & Practices:** SOLID Principles, Domain-Driven Design (DDD), Clean Architecture, Refactoring, AST / Static Code Analysis
+- **Frameworks & Systems:** Next.js, React, Fyne (Go GUI), FastAPI, Celery
+- **Infrastructure & Data:** Docker, PostgreSQL, Redis, RabbitMQ, Caddy, Prisma
+
+---
+
+### 🌐 Connect
+
+- 🌍 Website: [monchardo.com](https://monchardo.com)
+- 💼 GitHub: [@rimacias](https://github.com/rimacias)
