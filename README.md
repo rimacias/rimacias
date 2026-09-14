@@ -28,5 +28,4 @@ Software Engineer focused on building robust developer tooling, native applicati
 
 ### 🌐 Connect
 
-- 🌍 Website: [monchardo.com](https://monchardo.com)
 - 💼 GitHub: [@rimacias](https://github.com/rimacias)
