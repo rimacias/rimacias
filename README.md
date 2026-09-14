@@ -1,31 +1,23 @@
-# Hi, I'm Ramón Ignacio Macías 👋
-
-Software Engineer focused on building robust developer tooling, native applications, and resilient distributed systems. Passionate about clean architecture, **SOLID principles**, and **Domain-Driven Design**.
-
----
-
-### 🚀 Featured Projects
-
-- 🧠 **[clean-code-auditor-skill](https://github.com/rimacias/clean-code-auditor-skill)**  
-  *AI Agent skill & MCP server for SOLID compliance, code smells detection, automated refactoring, and duplicate analysis. Bundles 140 offline Refactoring Guru guides with token-efficient codegraph integration.*
-
-- ⚡ **[open-whats-native](https://github.com/rimacias/open-whats-native)**  
-  *Blazingly fast, lightweight native desktop WhatsApp client built in Go and Fyne. Features hardware-accelerated rendering, instant offline SQLite caching, and strict DDD architecture.*
-
-- 🔧 **[git-diffrange](https://github.com/rimacias/git-diffrange)**  
-  *A powerful Git CLI utility for commit-range analysis, interactive `fzf` code review, automated per-day patch generation, and formatted daily standup reports.*
+### Ramón Ignacio Macías
+Software Engineer · Ecuador  
+Building developer tooling, native desktop apps, and distributed backends in Go, TypeScript, and Rust.
 
 ---
 
-### 🛠️ Tech Stack & Engineering Focus
+#### Selected Work
 
-- **Languages:** Go, TypeScript, JavaScript, Rust, Python, Bash, SQL
-- **Architecture & Practices:** SOLID Principles, Domain-Driven Design (DDD), Clean Architecture, Refactoring, AST / Static Code Analysis
-- **Frameworks & Systems:** Next.js, React, Fyne (Go GUI), FastAPI, Celery
-- **Infrastructure & Data:** Docker, PostgreSQL, Redis, RabbitMQ, Caddy, Prisma
+| Project | Problem / Why it exists | Stack |
+| :--- | :--- | :--- |
+| **[open-whats-native](https://github.com/rimacias/open-whats-native)** | Official desktop chat clients are heavy Electron wrappers that idle at 800MB+ RAM and block on cold starts. Built a lightweight native binary with instant SQLite local caching. | Go, Fyne, SQLite |
+| **[clean-code-auditor-skill](https://github.com/rimacias/clean-code-auditor-skill)** | LLMs burn thousands of context tokens re-reading entire repositories for refactoring advice. Indexes AST symbols via codegraph and bundles 140 offline Refactoring Guru guides. | JavaScript, MCP, AST Analysis |
+| **[git-diffrange](https://github.com/rimacias/git-diffrange)** | Native `git log` and `git diff` require clumsy flag combinations for weekly standups and code review patches. Wrapped in an ergonomic CLI with interactive `fzf` browsing. | Bash, Git Internals |
 
 ---
 
-### 🌐 Connect
+#### Engineering Focus
+- **Architecture**: Domain-Driven Design (DDD), SOLID principles, Model Context Protocol (MCP).
+- **Core Stack**: Go, TypeScript, Rust, Docker, PostgreSQL, Redis, RabbitMQ, Caddy.
 
-- 💼 GitHub: [@rimacias](https://github.com/rimacias)
+---
+
+[GitHub](https://github.com/rimacias)
